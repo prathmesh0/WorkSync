@@ -1,16 +1,13 @@
-# work_sync
+# WorkSync
+WorkSync is an app designed as an extensive employee database, highlighting diverse information about each staff member, including their name, profile image, location, and additional details. The main purpose of this application is to fetch and exhibit employee information by integrating with a REST API, demonstrating the fundamental process of obtaining data from an external server.
 
-A new Flutter project.
+# To open the application, follow these steps:
+1) Launch the app on your device.
+2) Click on the "Get Started" button.
+3) Once prompted, a comprehensive list of employee details will appear instantly.
 
-## Getting Started
+# Demo 
 
-This project is a starting point for a Flutter application.
+https://github.com/prathmesh0/WorkSync/assets/93149250/321f184f-341c-45d9-90db-e09ea0b38b38
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
